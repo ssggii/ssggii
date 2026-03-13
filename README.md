@@ -66,8 +66,8 @@
 
 | **기간** | **프로젝트명** | **역할** | **배포** |
 | :---: | :---: | :---: | :---: |
-| 2025.05 ~ 2025.11 | 🏃‍♂️[**러닝한다이**](https://github.com/ssggii/Running-Handai-BE) | 백엔드 API 설계 및 구현, 인프라 구축 | 🔗 [Web](https://runninghandai.com/) |
-| 2024.04 - 2025.04 | 🌟[**청년톡톡**](https://github.com/ssggii/youth-talk-talk-BE) | DB 아키텍처 설계 및 비즈니스 로직 개발 |  |
+| 2025.05 ~ 2025.11 | 🏃‍♂️[**러닝한다이**](https://github.com/RunChuck/Running-Handai-BE) | 백엔드 API 설계 및 구현, 인프라 구축 | 🔗 [Web](https://runninghandai.com/) |
+| 2024.04 - 2025.04 | 🌟[**청년톡톡**](https://github.com/youth-talk-talk/BE) | DB 아키텍처 설계 및 비즈니스 로직 개발 |  |
 
 </div>
 
