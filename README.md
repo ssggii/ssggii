@@ -21,7 +21,7 @@
 | **기간** | **프로젝트명** | **역할** | **배포** |
 | :---: | :---: | :---: | :---: |
 | 2026.08 ~ 2026.09 | 🎤[**덕모임**](https://github.com/ssggii/duckmoim-backend) | 알림·댓글·백오피스 도메인 설계 및 구현, AI 개발 워크플로우 구축 | 🔗 [Web](https://duckmoim.com/) |
-| 2025.05 ~ 2025.10 | 🏃‍♂️[**러닝한다이**](https://github.com/ssggii/Running-Handai-BE) | 백엔드 API 설계 및 구현, 인프라 구축 | 🔗 [Web](https://runninghandai.com/) |
+| 2025.06 ~ 2025.10 | 🏃‍♂️[**러닝한다이**](https://github.com/ssggii/Running-Handai-BE) | 코스·리뷰·북마크 도메인 개발 및 ERD 설계, 공공데이터 동기화 파이프라인 구축, 인프라·배포 전담 | 🔗 [Web](https://runninghandai.com/) |
 | 2024.04 ~ 2025.04 | 🌟[**청년톡톡**](https://github.com/youth-talk-talk/BE) | DB 아키텍처 설계 및 비즈니스 로직 개발 |  |
 
 </div>
